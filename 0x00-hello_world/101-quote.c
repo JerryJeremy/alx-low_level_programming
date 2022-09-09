@@ -1,4 +1,3 @@
-8 = 
 #include <stdio.h>
 #include <unistd.h>
 
