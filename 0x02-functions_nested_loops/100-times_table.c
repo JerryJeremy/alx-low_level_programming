@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- *times_table- prints the n time table, starting with 0
+ *print_times_table - prints the n time table, starting with 0
+ *
  *@n: number of the times table
  */
 void print_times_table(int n)
