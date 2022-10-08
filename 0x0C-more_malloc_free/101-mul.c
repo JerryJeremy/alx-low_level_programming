@@ -1,5 +1,3 @@
-Task 5
-
 #include <stdlib.h>
 #include "main.h"
 
