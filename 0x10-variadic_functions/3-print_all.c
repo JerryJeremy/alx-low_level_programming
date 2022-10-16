@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+
 /**
  * _printchar - print char type element from va_list
- * @list: va_list passed to function
+ * @list: va_list passed to a function
  */
 void _printchar(va_list list)
 {
